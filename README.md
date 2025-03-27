@@ -4,6 +4,6 @@
 ## Programing languages
   - C++/C
   - C#
-  - Asm
+  - Assembly
   - Python
   - Go
